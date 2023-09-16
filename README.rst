@@ -8,7 +8,7 @@ CL-MUSTACHE
 Inspired by ctemplate_ and et_, Mustache_ is a
 framework-agnostic way to render logic-free views.
 
-As ctemplates says, "It emphasizes separating logic from presentation:
+As ctemplates says, "It emphasizes separating logic from presentation:ƒgit
 it is impossible to embed application logic in this template language."
 
 CL-MUSTACHE is a Common Lisp implementation of Mustache v1.1.2+λ. Tested with:
@@ -95,5 +95,5 @@ Define your tag classes, tag character and render function:
 
 .. _ctemplate: http://code.google.com/p/google-ctemplate/
 .. _et: http://www.ivan.fomichev.name/2008/05/erlang-template-engine-prototype.html
-.. _Mustache: http://mustache.github.com/
-.. _mustache(5): http://mustache.github.com/mustache.5.html
+.. _Mustache: http://mustache.github.io/
+.. _mustache(5): http://mustache.github.io/mustache.5.html
